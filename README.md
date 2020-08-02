@@ -24,15 +24,14 @@ My code is [here](./automation/automation.py) <br>
 ---
 
 ### Collaborations and Attributions
-<!-- __Skyler Burger__ helped immensely when trying to import a corpus of english words when 'import' wasn't working for the cipher-breaker function. -->
 
-<!-- __Merry Cimakasky__ helped with NN. -->
+__Merry Cimakasky__ helped with text file imports.
 
-<!-- __Lee-Roy King__ helped with NN. -->
+__Leo Kukhorev__ helped with regex.
 
 .gitignore content courtesy of https://www.toptal.com/developers/gitignore/api/python
 
-<!-- __likegeeks.com__ helped with [understanding chr() and ord()](https://likegeeks.com/python-caesar-cipher/) -->
+__Automate the Boring Stuff with Python__ helped with [email extraction regex code](https://automatetheboringstuff.com/chapter7/)
 
 ---
 
