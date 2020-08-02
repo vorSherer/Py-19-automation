@@ -10,3 +10,4 @@ def test_version():
 def test_gold_pan_exists():
     assert gold_pan
 
+
